@@ -8,9 +8,9 @@ Com a base de dados pública, respeitando todos os aspectos da LGPD, inicei real
 
 Para entender melhor os dados criei os gráficos mais adequados de todas as categorias e dos gastos médicos dos beneficiários. Com isso, realizei no pré-processamento dos dados o arredondamento das idades e o enconding, transformando as variáveis em numéricas e reorganizei as novas variáveis criadas.
 
-Além disso, s características dependentes e independentes e de treino e teste.
+Além disso, as características dependentes e independentes e de treino e teste.
 
-Foram treinadas e testadas quatro algoritmos de Machine Learning, esteS são: Regressão Linear, Regressão Ridge, Regressão Lasso e Random Forest com as métricas de valiação sendo Mean squared error e Coeficiente de determinação. 
+Foram treinados e testados quatro algoritmos de Machine Learning, estes são: Regressão Linear, Regressão Ridge, Regressão Lasso e Random Forest com as métricas de valiação sendo Mean squared error e Coeficiente de determinação. 
 
 Nos testes, o algoritmo que apresentou melhor perfomance foi Random Forest chegando a 89,35%.
 
